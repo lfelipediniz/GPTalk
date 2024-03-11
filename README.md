@@ -48,7 +48,6 @@ Create a `.env` file in the root of your project directory. Add your OpenAI API 
 
 ```
 OPENAI_API_KEY='your_api_key_here'
-# Add other necessary configurations
 ```
 
 Replace `'your_api_key_here'` with your actual OpenAI API key.

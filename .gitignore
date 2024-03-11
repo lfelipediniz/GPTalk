@@ -1,0 +1,26 @@
+# Virtual environments
+chatbot/
+venv/
+.env
+*.env
+
+# Python Bytecode
+__pycache__/
+*.pyc
+
+# Log files
+*.log
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+
+# Distribution files
+build/
+dist/
+*.egg-info/
+
+# Temporary files and folders
+.DS_Store
+Thumbs.db

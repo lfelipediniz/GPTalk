@@ -60,5 +60,3 @@ To run the chatbot, navigate to the project directory, ensure your virtual envir
 python main.py
 ```
 
-Replace `main.py` with the name of your script that starts the chatbot.
-
